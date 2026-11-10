@@ -208,6 +208,9 @@ section{scroll-margin-top:76px}
 .partners li{list-style:none;background:var(--noir);aspect-ratio:3/2;max-width:100%;display:grid;place-items:center;text-align:center;padding:12px;font-family:var(--f-mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:#77777d}
 .partners li.fondateur{grid-column:span 2;grid-row:span 2;aspect-ratio:auto;color:var(--blanc);border:2px solid var(--rouge)}
 .partners li.fondateur strong{display:block;font-family:var(--f-display);font-size:1.8rem;letter-spacing:.04em;margin-bottom:6px}
+.partners .logo-partenaire{display:flex;flex-direction:column;align-items:center;gap:18px;color:inherit;text-decoration:none}
+.partners .logo-partenaire img{width:min(150px,40%);height:auto}
+@media (max-width:760px){.partners .logo-partenaire{flex-direction:row;gap:14px;text-align:left}.partners .logo-partenaire img{width:70px}.partners li.fondateur strong{font-size:1.3rem}}
 @media (max-width:760px){.partners{grid-template-columns:repeat(2,1fr)}.partners li.fondateur{grid-row:auto;aspect-ratio:3/1.4}}
 
 /* Soirée */
