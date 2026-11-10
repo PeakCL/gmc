@@ -1,4 +1,2 @@
-# Site non publié : tout bloquer jusqu'à la mise en ligne sur le domaine du club.
-# A la mise en ligne : remplacer par "Allow: /" et ajouter la ligne Sitemap.
 User-agent: *
-Disallow: /
+Allow: /
