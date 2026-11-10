@@ -31,7 +31,8 @@ Logo : extrait du pressbook en PNG (`assets/img/logo-gmc.png`, `logo-gmc-blanc.p
 - [ ] Logos et accord des partenaires confirmés (le pressbook en montre plusieurs, aucun n'est publié sans validation)
 - [ ] Publication du budget détaillé et du numéro de Sébastien sur le site public
 - [ ] Soirée du 22 janvier 2027 : lieu, horaire, inscription
-- [ ] E-mail qui reçoit les messages du formulaire (notification Netlify) et lien de la Page Facebook
+- [ ] E-mail qui reçoit les messages du formulaire (notification Netlify)
+- [x] Lien de la Page Facebook
 - [ ] Adresse du siège et nom du président (mentions légales)
 
 ## Mise en ligne (une fois le domaine pris par le club)
