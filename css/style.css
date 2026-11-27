@@ -321,3 +321,4 @@ body::after{content:"";position:fixed;top:0;bottom:0;left:0;width:10px;backgroun
 @media (max-width:980px){.voix{grid-template-columns:1fr 1fr}}
 @media (max-width:540px){.voix{grid-template-columns:1fr}}
 .partners li .logo-partenaire img[src*="heart-prod"]{width:min(170px,70%)}
+.partners li .logo-partenaire img[src*="bh-conception"]{width:min(220px,82%)}
