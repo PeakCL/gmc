@@ -322,3 +322,6 @@ body::after{content:"";position:fixed;top:0;bottom:0;left:0;width:10px;backgroun
 @media (max-width:540px){.voix{grid-template-columns:1fr}}
 .partners li .logo-partenaire img[src*="heart-prod"]{width:min(170px,70%)}
 .partners li .logo-partenaire img[src*="bh-conception"]{width:min(220px,82%)}
+.partners li .logo-partenaire img[src*="redzone"]{width:min(210px,80%)}
+.partners li .logo-partenaire img[src*="allianz"]{width:min(170px,70%)}
+.partners li .logo-partenaire img[src*="simad"]{width:min(140px,60%);mix-blend-mode:lighten}
